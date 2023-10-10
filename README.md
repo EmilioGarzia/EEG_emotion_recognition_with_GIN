@@ -101,19 +101,19 @@ Many experiments have been done, one of the best results was obtained with this 
 ### Loss
 
 **Loss FOLD #0**
-!["Loss FOLD #0"](results/Loss[T2K0].svg)
+!["Loss FOLD #0"](results/loss[T2K0].svg)
 
 **Loss FOLD #1**
-!["Loss FOLD #1"](results/Loss[T2K1].svg)
+!["Loss FOLD #1"](results/loss[T2K1].svg)
 
 **Loss FOLD #2**
-!["Loss FOLD #2"](results/Loss[T2K2].svg)
+!["Loss FOLD #2"](results/loss[T2K2].svg)
 
 **Loss FOLD #3**
-!["Loss FOLD #3"](results/Loss[T2K3].svg)
+!["Loss FOLD #3"](results/loss[T2K3].svg)
 
 **Loss FOLD #4**
-!["Loss FOLD #4"](results/Loss[T2K4].svg)
+!["Loss FOLD #4"](results/loss[T2K4].svg)
 
 
 ## AUTHOR
