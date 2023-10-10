@@ -1,9 +1,9 @@
-# AI Model based on a graph (GIN) for the Emotion Recognition
+# AI Model based on a graph (GIN) for the Emotion Recognition with SEED-IV dataset
 #
 # @author Emilio Garzia
 #
 # i : Run tensorboard to see all progress of the training/test phase.
-#     Open another terminal and insert this command: python3 -m tensorboard.main --logdir=train/loss 
+#     Open another terminal and insert this command: python3 -m tensorboard.main --bind_all --logdir=<directory of training> port=<port>
 
 from typing import List, Tuple
 import torch.nn as nn
@@ -25,6 +25,7 @@ from rich.progress import track
 import argparse as ap
 import os
 
+################## Parser ##############
 parser = ap.ArgumentParser()
 parser.add_argument("-e", "--epochs", default=100, help="Epochs number")
 parser.add_argument("-d", "--dir", default="training", help="Insert the train path")
