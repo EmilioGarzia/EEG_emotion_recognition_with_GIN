@@ -3,10 +3,10 @@ EEG emotion recognition with graph isomorphism network (GIN) implemented in pyth
 
 ## Summary
 * 1. [Summary](#Summary)
-* 2. [HOW TO RUN](#HOWTORUN)
+* 2. [HOW TO RUN](#HOW-TO-RUN)
 * 3. [DEPENDENCIES](#DEPENDENCIES)
-* 4. [HOW TO RUN TENSORBOARD](#HOWTORUNTENSORBOARD)
-* 5. [METRICS OF OUR MODEL](#METRICSOFOURMODEL)
+* 4. [HOW TO RUN TENSORBOARD](#HOW-TO-RUN-TENSORBOARD)
+* 5. [METRICS OF OUR MODEL](#METRICS-OF-OUR-MODEL)
 * 6. [RESULTS](#RESULTS)
 	* 6.1. [Confusion Matrix of all training fold](#Confusion-Matrix-of-all-training-fold)
 	* 6.2. [Accuracy](#Accuracy)
