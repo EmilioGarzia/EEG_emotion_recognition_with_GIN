@@ -1,4 +1,4 @@
-# EEG emotion recognition with GIN
+# EEG emotion recognition with GIN on dataset SEED-IV
 EEG emotion recognition with graph isomorphism network (GIN) implemented in python.
 
 ## Summary
@@ -115,6 +115,9 @@ Many experiments have been done, one of the best results was obtained with this 
 **Loss FOLD #4**
 !["Loss FOLD #4"](results/loss[T2K4].svg)
 
+## EXTERNAL REFERENCE
+[Torcheeg](https://torcheeg.readthedocs.io/en/latest/)
+[Dataset SEED-IV](https://bcmi.sjtu.edu.cn/home/seed/seed-iv.html)
 
 ## AUTHOR
 *Emilio Garzia, 2023*
