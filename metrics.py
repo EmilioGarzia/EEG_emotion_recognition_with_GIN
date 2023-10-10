@@ -1,6 +1,6 @@
 # Metric for GIN model
 #
-# usage: python metrics.py metrics_file_name <cm | roc | f1>
+# usage: python metrics.py metrics_file_name <cm | roc | f1 | acc>
 #
 # @author Emilio Garzia
 
