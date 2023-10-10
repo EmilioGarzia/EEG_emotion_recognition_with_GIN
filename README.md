@@ -2,7 +2,16 @@
 EEG emotion recognition with graph isomorphism network (GIN) implemented in python.
 
 ## Summary
-[toc]
+* 1. [Summary](#Summary)
+* 2. [HOW TO RUN](#HOWTORUN)
+* 3. [DEPENDENCIES](#DEPENDENCIES)
+* 4. [HOW TO RUN TENSORBOARD](#HOWTORUNTENSORBOARD)
+* 5. [METRICS OF OUR MODEL](#METRICSOFOURMODEL)
+* 6. [RESULTS](#RESULTS)
+	* 6.1. [Confusion Matrix of all training fold](#ConfusionMatrixofalltrainingfold)
+	* 6.2. [Accuracy](#Accuracy)
+	* 6.3. [Loss](#Loss)
+* 7. [AUTHOR](#AUTHOR)
 
 ## HOW TO RUN
 When the environment is already with all dependencies, you can run the python script with command:
