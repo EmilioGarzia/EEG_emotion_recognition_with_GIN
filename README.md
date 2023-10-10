@@ -60,6 +60,7 @@ python metric.py metrics_file_name <cm | roc | f1 | acc>
 ```
 
 ⚠: You can check only one metrics for run.
+
 ⚠: The files of metrics of each fold are in all `train#` directories, named `metrics_data`.
 
 ## RESULTS
