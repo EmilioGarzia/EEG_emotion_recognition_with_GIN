@@ -11,6 +11,7 @@ EEG emotion recognition with graph isomorphism network (GIN) implemented in pyth
 	* 6.1. [Confusion Matrix of all training fold](#ConfusionMatrixofalltrainingfold)
 	* 6.2. [Accuracy](#Accuracy)
 	* 6.3. [Loss](#Loss)
+* 7. [EXTERNAL REFERENCE](#EXTERNAL-REFERENCE)
 * 7. [AUTHOR](#AUTHOR)
 
 ## HOW TO RUN
@@ -117,6 +118,7 @@ Many experiments have been done, one of the best results was obtained with this 
 
 ## EXTERNAL REFERENCE
 [Torcheeg](https://torcheeg.readthedocs.io/en/latest/)
+
 [Dataset SEED-IV](https://bcmi.sjtu.edu.cn/home/seed/seed-iv.html)
 
 ## AUTHOR
